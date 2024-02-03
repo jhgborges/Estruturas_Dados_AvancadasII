@@ -1,0 +1,8 @@
+Conteúdo da disciplina:
+- funções de espalhamento
+- tabelas de espalhamento
+- endereçamento fechado
+- algoritmos de ordenação
+- manipulação de arquivos
+
+
